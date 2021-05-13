@@ -11,7 +11,7 @@ sqlite> .import.open 'c:\\dd\\mydb'
 Error: unknown command or invalid arguments:  "import.open". Enter ".help" for help
 sqlite>    sqlite> .mode column
    ...>    sqlite> .header on
-   ...> [출처] AII - 8일차 (양주종의 코딩스쿨 ▶ C언어 ·파이썬 ·리눅스 ·정보처리기사) | 작성자 양;
+   ...> 
 
    ...>
    ...> ;
